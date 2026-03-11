@@ -51,6 +51,8 @@ Version: **0.1 beta**
 3. Sync Gradle (Uses Kotlin 2.1.0 and KSP 2.1.0-1.0.29).
 4. Build and run the `:app` module.
 
+### Install provided APK
+
 ---
 
 ## 🔒 Permissions
