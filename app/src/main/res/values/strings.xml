@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Beautiful Tracer</string>
+    <string name="input_hint">Enter URL or IP address</string>
+    <string name="trace_button">Trace</string>
+    <string name="stop_button">Stop</string>
+    <string name="hop_label">Hop</string>
+    <string name="ms_label">ms</string>
+    <string name="loss_label">loss</string>
+    <string name="whois_title">IP Details</string>
+    <string name="loading">Loading…</string>
+    <string name="no_data">No data available</string>
+    <string name="cached_label">Cached</string>
+    <string name="isp_label">ISP</string>
+    <string name="org_label">Organization</string>
+    <string name="city_label">City</string>
+    <string name="region_label">Region</string>
+    <string name="country_label">Country</string>
+    <string name="asn_label">ASN</string>
+    <string name="root_toggle">Use Root (Raw ICMP)</string>
+    <string name="timeout_label">* * *</string>
+</resources>
